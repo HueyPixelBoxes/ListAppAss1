@@ -1,0 +1,88 @@
+[
+  {
+    "id": 1,
+    "name": "Roids",
+    "avatar": "RoidsAva" ,
+    "splash": "RoidsSplash",
+    "location": "Far Shore",
+    "epithet": "The Juggernaut",
+    "quote": "Reminds you who's boss.",
+    "lore": "Roids is a tall and muscular fighter and is one of the four bosses in The Far Short. Their focus is on teaching the player to be agressive in attacks, put pressure on the enemy and to be careful with when to use support moves. Roids is a burning star of self-hatred, a star that's brilliance and light illuminates and amazes Purgatory far and wide. He does not speak, lest he hear his own voice. When the crowd roars and adrenaline takes control of every nerve, he for a moment is adrift in that silent sea, floating gently above cool waves of oblivion. Your body and blood are not yours, but instead Roids' tool to once more return to those waves, if only for a moment"
+  },
+
+  {
+    "id": 2,
+    "name": "Mobius",
+    "avatar": "MobiusAva" ,
+    "splash": "MobiusSplash",
+    "location": "Far Shore",
+    "epithet": "The Widower",
+    "quote": "Life finds a way...",
+    "lore": "Mobius is one of the four possible bosses in The Far Shore. He is blue man standing on the corpse of a Mungodo and bears numerous spears. He is a stationary boss that spawns with 2 special Mung on either side of him. He teaches the player how to deal with non-red pigment. Mobius has seen all that Purgatory has to offer, his longevity a minor miracle of its own. He is old enough to have witnessed the arrival of the Ungod and in turn the collapse of the Tunnel City; there is very little that could surprise Mobius anymore. He spends his days forever trying to find his way back to a love now lost. His mind has degraded and he has become utterly convinced that the gutting of Mung and Mungodo will lead to the return of his lost lover. Perhaps there is some method to his madness?"
+  },{
+    "id": 3,
+    "name": "Hickory",
+    "avatar": "HickoryAva" ,
+    "splash": "HickorySplash",
+    "location": "Far Shore",
+    "epithet": "The Fire & The Fuel",
+    "quote": "Fall in love all over again.",
+    "lore": "The Hickories are one of the four possible bosses in The far Shore. As a pair of pyromaniacs, they are meant to test the player's positioning around the fire, and to teach of the dangerous combination of Oil and Fire. Hickory (Fire) is the least mentally sane of the pair, only wearing his mask halfway down the face. This contrasts with Hickory (Fire)'s more reliable positioning, due to the fact that he lacks the Slippery passive that Hickory (Fuel) has. The love Hickory feels for one another is one few could even fathom. The kind of love you feel with every cell of your being, throwing away individual, identities to be a single soul. Like the wildest of hellfires, it could never last, but will burn brighter than the Sun itself. When their love collapses into that supernova of passion before fading into nothing at all, you will know that in this Hell, Hickory glimpsed Heaven"
+  },{
+    "id": 4,
+    "name": "TriggerFingers",
+    "avatar": "TriggerFingersAva" ,
+    "splash": "TriggerFingersSplash",
+    "location": "Far Shore",
+    "epithet": "The Coward",
+    "quote": "On the wrong side of history.",
+    "lore": "Trigger Fingers is one of the four possible bosses in The Far Shore. Due to the signature ability Headshot, he can be quite fearsome, but Formless allows for an easy workaround. His focus is on teaching the player to hold back on some enemies and be more thoughtful as to when you attack. Trigger Fingers, as Bosch has nicknamed him, arrived in Purgatory only moments ago. He is still in a suicidal haze of confusion, likely unaware that he has crossed over at all. His firearm is the thin barrier between him and the starving jaws of Purgatory. As soon as he fires his final bullet, he is revealed for what he has always been - a pathetic whelp suckling from the tit of an ideology he never meant anything to."
+  },{
+    "id": 5,
+    "name": "Smoothskin",
+    "avatar": "SmoothskinAva" ,
+    "splash": "SmoothskinSplash",
+    "location": "The Orpheum",
+    "epithet": "The Orphan",
+    "quote": "Please don't leave...",
+    "lore": "The SmoothSkin is a pathetic, Lamia-like creature and is one of the three bosses of The Orpheum. It repeatedly summons Visages for support and slowly builds up Shield to defend itself. Poor Smoothskin. The nameless race of lamia did not inhabit the Orpheum for long, driven out quickly by the human occupants of the Tunnel City. Smoothskin now is an inhabitant of the furthest reaches of the underground. His statues scare away any wandering soured sons that could prey upon him. Perhaps he has come to believe this safety is his family protecting him, even now."
+  },{
+    "id": 6,
+    "name": "Ouroboros",
+    "avatar": "OuroborosAva" ,
+    "splash": "OuroborosSplash",
+    "location": "The Orpheum",
+    "epithet": "The Leviathan",
+    "quote": "To Swallow the Sea...",
+    "lore": "The Ouroboros is a large serpentine creature and is one of the three bosses of The Orpheum. It forced the player to be careful with their positioning and management of its Body and Tail. The Ouroboros, fetched from the Maelstrom and brought to the Orpheum before the time of the Ungod by a now disbanded Cult of Infinity Worshippers. Many worshippers died in this transit. This Infinity Cult believed with ample sacrifices the Ouroboros would someday speak from its true, face and reveal mathematical and philosophical insights into the nature of Purgatory. Deprived of sacrifices, the Ouroboros now preys upon the fauna of the Orpheum trapped within its lagoon. In times of starvation; it is known to feed upon itself. The Cult was disbanded suddenly and seemingly without cause. Perhaps in the end they got their wish?"
+  },
+  {
+    "id": 7,
+    "name": "Charcarrion",
+    "avatar": "CharcarrionAva" ,
+    "splash": "CharcarrionSplash",
+    "location": "The Orpheum",
+    "epithet": "The Messiah",
+    "quote": "You can never escape this.",
+    "lore": "The Charcarrion is a large, semi-humanoid creature and is one of the three bosses of The Orpheum. It is an endurance fight that focuses on positioning and wearing away at your party's maximum health. A hideous name for a being once heralded as the summit of beauty and honor. Before the time of humans there was another race, a race of scholarly giants which reveled in arts, sciences, and philosophies unknown. Purgatory was their world, they built cities and mounted a force strong enough to repel even an Ungod. Ultimately their mortal counterparts went extinct, and without reproduction within Purgatory, entropy began to claim them. The Charcarrion, adorned in crowns of bronze, made a deal with a Demon for the strength to protect his kind as long as possible, in turn for his undying body becoming the Demon's new home. He reigned as the deathless king and fought the hand of entropy for what mortal minds would fathom as an eternity. When the last of his kind turned to dust in his arms, rendered now but a barely-conscious worm, of bone, he knew he had failed, but the pact with the Demon was forever. When you weep, weep for the beast now known as the Charcarrion, for he houses not a demon, but the kind of love only a Messiah could know."
+  },{
+    "id": 8,
+    "name": "Osman Sinnoks",
+    "avatar": "OsmanAva" ,
+    "splash": "OsmanSplash",
+    "location": "The Garden",
+    "epithet": "The Witness",
+    "quote": "Breathe deep. This you will not forget.",
+    "lore": "Osman Sinnoks is a tall and mysterious man and is one of the two final bosses in The Garden. He is constantly moving around the battlefield berating your team with damage and applying Curses that prevent healings and finishing off his turn with the move Mortal Horizon that instantly kills the opposing party member. Require player to play along with his moveset and follow up with ton of burst damages. Upon death, Osman Sinnoks is merely wounded. He now split into 2 enemies: Osman & Sinnoks, with twice the action and both use Mortal Horizon as finishing moves making the fight significantly difficult."
+  },{
+    "id": 9,
+    "name": "Heaven",
+    "avatar": "HeavenAva" ,
+    "splash": "HeavenSplash",
+    "location": "The Garden",
+    "epithet": "The Divine",
+    "quote": "Heaven awaits.",
+    "lore": "Heaven is a colossal wolf skull suspended by tendrils of oil from human hands of marble and is one of the two final bosses in the Garden. A manifestation of the Garden you stand on, Heaven is a representation of Nowak's fear of death, of what will happen after death. To opposose Heaven is to invite suffering and demise to ourselves. To defeat Heaven, though is to come to term with one's own imperfection, embrace the flaws of themselves and be at peace in death."
+  }
+]
+
